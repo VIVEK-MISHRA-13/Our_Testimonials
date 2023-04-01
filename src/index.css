@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.big:hover .shall{
+    width: 300px;
+    transition: all;
+    transition-duration: 600ms;
+
+}
